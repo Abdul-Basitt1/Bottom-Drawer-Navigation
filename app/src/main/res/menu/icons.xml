@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/cal"
+        android:icon="@drawable/calculator"
+        android:title="Calculator" />
+
+    <item
+        android:id="@+id/cmplxcal"
+        android:icon="@drawable/cmpxcal"
+        android:title="Complex Cal" />
+
+    <item
+        android:id="@+id/formulas"
+        android:icon="@drawable/frm"
+        android:title="Formulas" />
+
+</menu>
