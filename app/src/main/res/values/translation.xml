@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="trans">
+        <item>“Our Lord, accept [this] from us. Indeed You are the Hearing, the Knowing.”</item>
+        <item>ٌِ“Our Lord is Forgiving and Appreciative”</item>
+        <item>“Our Lord, upon You we have relied, and to You we have returned, and to You is the destination.”</item>
+        <item>“Our Lord, indeed we have believed, so forgive us our sins and protect us from the punishment of the Fire”</item>
+        <item>َ“Our Lord, we have believed, so register us among the witnesses.”</item>
+        <item>َ“Our Lord, do not place us with the wrongdoing people.”</item>
+        <item>"Glory is to Allah, praise is to Allah, Allah is the Most Great!"</item>
+        <item>َ“Our Lord, pour upon us patience and let us die as Muslims [in submission to You].”</item>
+        <item>“Our Lord, grant us from Yourself mercy and prepare for us from our affair right guidance.”</item>
+        <item>“Our Lord, indeed we are afraid that he will hasten [punishment] against us or that he will transgress.”</item>
+
+    </string-array>
+</resources>

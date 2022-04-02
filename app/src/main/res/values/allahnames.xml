@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="allahname">
+        <item>Ar Rahmaan	   ---         	The Most or Entirely Merciful</item>
+        <item>Ar Raheem	 	   ---    		The Bestower of Mercy</item>
+        <item>Al Malik		   ---	    	    The King and Owner of Dominion</item>
+        <item>Al Qudoos		   ---     	    The Absolutely Pure </item>
+        <item>As Salam		   ---	 	     	The Perfection and Giver of Peace</item>
+        <item>Al Mu min			---   	        The One Who gives Emaan and Security</item>
+        <item>Al Muhaymin		---		    The Guardian, The Witness, The Overseer</item>
+        <item>Al Azeez		    ---	        The All Mighty</item>
+        <item>Al Jabbaar		---		    The Compeller</item>
+        <item>Al Mutakabbir		---	   	    The Supreme, The Majestic</item>
+    </string-array>
+</resources>

@@ -22,4 +22,14 @@
         android:name="com.example.abc.ui.slideshow.SlideshowFragment"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/prayerFragment"
+        android:name="com.example.abc.PrayerFragment"
+        android:label="fragment_prayer"
+        tools:layout="@layout/fragment_prayer" />
+    <fragment
+        android:id="@+id/ramadanguide"
+        android:name="com.example.abc.ramadanguide"
+        android:label="fragment_ramadanguide"
+        tools:layout="@layout/fragment_ramadanguide" />
 </navigation>
